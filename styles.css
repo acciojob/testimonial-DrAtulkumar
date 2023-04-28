@@ -1,11 +1,12 @@
 /*  your css code here. If applicable */
-body{
+.container{
 	background: #f5f5f5;
 }
 
 .first{
 	background: white;
 	padding: 5px;
+	margin:0px 20px;
 }
 
 .name{
