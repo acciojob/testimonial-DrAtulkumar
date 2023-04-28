@@ -1,1 +1,13 @@
 /*  your css code here. If applicable */
+body{
+	background: #f5f5f5;
+}
+
+.first{
+	background: white;
+	padding: 5px;
+}
+
+.name{
+	text-align: right;
+}
